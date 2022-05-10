@@ -1,12 +1,10 @@
 # Session 2
----
 
 #### Preconditions
 Enchanted by Strahd: Find Tatjana.
 Forgotten the doggy in the forest.
 
 ## Events
----
 
 #### Dream
 
@@ -83,7 +81,6 @@ Forgotten the doggy in the forest.
       - Speak to the Bishop of Markovia - a good man
 
 #### On the road to Valakia
----
 
 1. Consider route -> Take path around the water so as not to enter into
    Vistani camp
